@@ -15,3 +15,6 @@ além de auxiliar no processo de adoção de forma organizada e prática.
 *WhatsApp Cloud API: utilizada para facilitar a comunicação entre adotantes e responsáveis pelos animais.
 *Resend: utilizada para envio de e-mails, como confirmações e notificações do sistema.
 *Mercado Pago: utilizada para processar pagamentos e doações, permitindo opções como Pix e cartão.
+
+----------LINGUAGENS E BANCO DE DADOS----------
+
