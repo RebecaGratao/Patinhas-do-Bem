@@ -17,4 +17,7 @@ além de auxiliar no processo de adoção de forma organizada e prática.
 *Mercado Pago: utilizada para processar pagamentos e doações, permitindo opções como Pix e cartão.
 
 ----------LINGUAGENS E BANCO DE DADOS----------
-
+*Front-end (App Mobile): Flutter (Linguagem: Dart)
+*Front-end (Web): HTML / CSS 
+*Back-end: Python
+*Banco de Dados: Supabase (PostgreSQL)
